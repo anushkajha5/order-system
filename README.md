@@ -30,8 +30,11 @@ This project allows users to manage restaurant orders efficiently and is ideal f
 ## Project Structure
 order-system/
 │
+
 ├── order.py
+
 ├── orders.txt
+
 └── README.md
 
 # Future Improvements
