@@ -1,4 +1,4 @@
-# Restaurant Order Management System (Python)
+# Restaurant Order Management System
 
 A console-based Restaurant Order Management System built using Python.
 This project allows users to manage restaurant orders efficiently and is ideal for beginners to practice core Python concepts.
